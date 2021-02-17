@@ -6,3 +6,6 @@
 - cd adv-cookie-stealer
 - sudo chmod +x *
 - sudo apt-get install ruby
+- ruby cookie-steal.rb
+
+# Tool author is not responsible for any damage
